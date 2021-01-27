@@ -172,7 +172,7 @@
                         }
                     }
                 },
-                                {
+                {
                     "name": "[variables('Frontend')]",
                     "properties": {
                         "addressPrefix": "10.0.1.0/24",
